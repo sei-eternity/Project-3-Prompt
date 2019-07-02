@@ -36,7 +36,7 @@ By the time you submit this project, you will have covered new ground in, and re
   - 4 props
   - 2 state properties
   - 2 routes
-- **Use Axios** to make *at least* 1 API call and display the data for the user.
+  - 1 API call with Axios and display the data for the user.
 - **Craft a `README.md` file that explains your app** to the world.
 - **Recorded video demo** of your application to submit your project.
 
