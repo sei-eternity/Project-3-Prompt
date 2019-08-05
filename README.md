@@ -43,14 +43,14 @@ By the time you submit this project, you will have covered new ground in, and re
 
 ### Necessary Deliverables
 
-Projects are due **Thursday, 11/7 at 10am**!  
+Projects are due **Thursday, August 22nd at 10am**!  
 
 Submissions will be submitted by posting into slack
 - the recorded video demo 
 - a link to your deployed application 
 - a link to your github repository
 
-The recorded video demo must be a **10-20 minute presentation** in which you answer the following questions:
+The recorded video demo must be a **10 minute presentation** in which you answer the following questions:
   - What is the application about?
   - What are the user stories for your application?
   - What API did you choose to use?
@@ -66,6 +66,7 @@ The recorded video demo must be a **10-20 minute presentation** in which you ans
 
 - Use more than 1 API
 - Save data to localstorage or [firebase api (docs)](https://firebase.google.com/docs/database/web/start) with [React (tutorial)](https://css-tricks.com/intro-firebase-react/)
+- Build a Rails API Backend like the [Misk API Example](https://github.com/sei-eternity/rails-api-app-for-axios-practice).
 - Use a React component library like [Ant Design](https://ant.design/docs/react/introduce), [Bootstrap React](https://react-bootstrap.github.io/), or [Material UI](https://material-ui.com/)
 - Use a CSS library like [Bootstrap (tutorial)](https://m.pardel.net/react-and-bootstrap-4-part-1-setup-navigation-d4767e2ed9f0)
 - Add User Sign Up, Sign In, and Sign Out with [Firebase and React Authentication (tutorial)](https://medium.com/firebase-developers/how-to-setup-firebase-authentication-with-react-in-5-minutes-maybe-10-bb8bb53e8834), alternative tutorial [here](https://css-tricks.com/firebase-react-part-2-user-authentication/) (can be very challenging)
