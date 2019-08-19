@@ -50,7 +50,7 @@ Submissions will be submitted by posting into slack
 - a link to your deployed application 
 - a link to your github repository
 
-The recorded video demo must be a **10 minute presentation** in which you answer the following questions:
+The recorded video demo must be no longer then a **10 minute presentation** in which you answer the following questions:
   - What is the application about?
   - What are the user stories for your application?
   - What API did you choose to use?
